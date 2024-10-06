@@ -100,4 +100,4 @@ Alternatively, you can ignore the above requirements and develop right inside a 
     * Follow the on-screen instructions of the deploy script
   
 # License
-MIT
+MIT Here
